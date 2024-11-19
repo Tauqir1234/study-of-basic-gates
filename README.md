@@ -104,5 +104,6 @@ endmodule
 ![Screenshot 2024-11-12 160228](https://github.com/user-attachments/assets/ec2b90a7-ec6c-4a5b-88c0-c6e96e05dae3)
 
 **Result:**
+
 Thus the basic gate logic gate and truth table are verified.
 
